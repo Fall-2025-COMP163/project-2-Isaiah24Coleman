@@ -1,10 +1,10 @@
 """
 COMP 163 - Project 2: Character Abilities Showcase
-Name: [Your Name Here]
-Date: [Date]
+Name: Isaiah Coleman
+Date: 11/11/2025
 
 AI Usage: [Document any AI assistance used]
-Example: AI helped with inheritance structure and method overriding concepts
+Example: AI helped with inheritance structure and method overriding concepts, as well usd my upswing tutor to handle more of the advanced concepts
 """
 
 # ============================================================================
